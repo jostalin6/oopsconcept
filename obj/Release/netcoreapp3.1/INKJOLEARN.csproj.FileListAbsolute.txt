@@ -1,0 +1,13 @@
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.csproj.AssemblyReference.cache
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.AssemblyInfoInputs.cache
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.AssemblyInfo.cs
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.csproj.CoreCompileInputs.cache
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/bin/Release/netcoreapp3.1/INKJOLEARN.deps.json
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/bin/Release/netcoreapp3.1/INKJOLEARN.runtimeconfig.json
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/bin/Release/netcoreapp3.1/INKJOLEARN.runtimeconfig.dev.json
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/bin/Release/netcoreapp3.1/INKJOLEARN.dll
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/bin/Release/netcoreapp3.1/INKJOLEARN.pdb
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.dll
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.pdb
+/Users/joniran/Projects/INKJOLEARN/INKJOLEARN/obj/Release/netcoreapp3.1/INKJOLEARN.genruntimeconfig.cache
